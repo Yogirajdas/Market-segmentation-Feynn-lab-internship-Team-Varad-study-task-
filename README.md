@@ -1,12 +1,12 @@
 # Market-segmentation-Feynn-lab-internship-Team-Varad-study-task-
 
-##What is marketing:
+## What is marketing:
 Marketing is the activity, set of institutions, and processes for creating,communicating, delivering, and exchanging offerings that have value for customers, clients, partners, and society at large.
 
-##What is marketing strategy:
+## What is marketing strategy:
 Marketing strategy is a set of specific ideas and actions that outline and guide decisions on the best or chosen way to create,distribute, promote, and price a product or service (Manage the marketing mix variables).
 
-##What is market segmentation?
+## What is market segmentation?
 At its core, market segmentation is the practice of dividing your target market into approachable groups. Market segmentation creates subsets of a market based on demographics, needs, priorities, common interests, and other psychographic or behavioral criteria used to better understand the target audience.
 
 
